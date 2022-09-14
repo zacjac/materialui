@@ -108,7 +108,7 @@ const App = () => {
         <Typography variant="subtitle1" align="center" color="textSecondary">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo
           temporibus consequatur ducimus velit ratione asperiores eligendi, in
-          voluptates soluta porro?
+          voluptates soluta porro ss?
         </Typography>
       </footer>
     </>
